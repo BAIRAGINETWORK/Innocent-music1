@@ -40,9 +40,9 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # 🔗 Support Links
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/KING_BOT_UPDATE")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/KING_BOT_UPDATE")
-PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://t.me/KING_BOT_UPDATE")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/musicsupdate")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/musicsupdate")
+PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://t.me/musicsupdate")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ⏱️ Duration & Playlist Settings
